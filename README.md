@@ -56,7 +56,7 @@ However, this new code is dependent that the Ticker data is grouped by stock nam
 
 ![](Resources/Time_Refactored_Code_2018.PNG)
 
-The VBA project includes two buttons to test the performance of the original and refactored codo, to color the cells (Green & Red) to provide easy vizualization of positive and negative results and a forth button to clear the results.
+The VBA project includes two buttons to test the performance of the original and refactored codo, to color the cells (Green & Red) to provide easy vizualization of positive and negative results and a fourth button to clear the results.
 
 ![](Resources/Buttons.PNG)
 
